@@ -3,8 +3,8 @@ class YtDlp < Formula
 
   desc "A youtube-dl fork with additional features and fixes"
   homepage "https://github.com/yt-dlp/yt-dlp"
-  url "https://files.pythonhosted.org/packages/30/70/578521a22783112ae3dc01e33b23429151edeecb585c7b1ed58feee7fef3/yt-dlp-2023.2.17.tar.gz"
-  sha256 "9af92de5effc193bdb51216d9ebf28874d96180d202fae752b0d9f2a63380f3a"
+  url "https://test-files.pythonhosted.org/packages/6b/62/6bca49ab5768c03397b0646219cf857337297e2853e8ed797c00f7b71170/yt-dlp-test-2023.3.14.4.tar.gz"
+  sha256 "13a339f745fada6f43fd53472e35b94870a229ee5299ac48b759b3475e39c0a7"
   license "Unlicense"
 
   depends_on "python@3.10"
